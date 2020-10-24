@@ -1,0 +1,18 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables:
+Las variables son una caja (espacio en memoria) en donde debemos guardar objetos (datos) valiosos que luego vamos a necesitar para que estos no se pierdan y así poder recuperarlos y usuarlos cuando sean requeridos.
+
+Strings:
+Los Strings son cadenas o hilos de caracteres (tipo de dato) que van dentro de comillas dobles o simples.
+
+Funciones (argumentos, return):
+Las funciones: son fragmentos de codigos que vamos a necesitar varias veces dentro de un algoritmo o programa y esta nos ayudará a no tener que repetir el codigo. 
+Los argumentos: son variables que funcionan en un alcance local (scope) y con las cuales necesitamos realizar operaciones dentro de dicha función.
+Return: Es la devolucion de un resultado o dato que realiza una función, una vez haya terminado de realizar la operacion para la que fue construida o diseñada. 
+
+Declaraciones if:
+La declaracion if es un bloque de codigo especial que nos brinda la oportunidad de tomar un decision o camino dependiendo de si una condición determinada se cumple o no (a traves de un tipo de dato Booleano). 
+
+Valores booleanos (true, false):
+Es un tipo de datos permitido en todos los lenguajes de programación, en donde true quiere expresar verdad y false expresa falsa, este tipo de datos es muy importante en la elaboracion de un algoritmo o programa.
