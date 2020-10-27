@@ -2,7 +2,7 @@
 Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
 Arrays:
-Es un conjunto de datos (numeros, string, booleano, null, undefined) almacenanos en una sola variable y organizados por indices para su organizacion, dichos indices estan ordenados de 
+Es un conjunto de datos (numeros, string, booleano, null, undefined) almacenanos en una sola variable y organizados por indices, dichos indices estan ordenados de 
 forma numerica iniciando desde el cero (0).
 
 Un array viene siendo un casillero (variable) que a su vez está subdivido en otros casilleros (indices o lugares de los datos).
