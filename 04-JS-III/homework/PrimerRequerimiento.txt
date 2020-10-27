@@ -1,0 +1,8 @@
+1) En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Arrays:
+Es un conjunto de datos (numeros, string, booleano, null, undefined) almacenanos en una sola variable y organizados por indices para su organizacion, dichos indices estan ordenados de 
+forma numerica iniciando desde el cero (0).
+
+Un array viene siendo un casillero (variable) que a su vez está subdivido en otros casilleros (indices o lugares de los datos).
