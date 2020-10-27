@@ -1,0 +1,23 @@
+1) En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes 
+conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+for:
+El bucle for es una estructura de control (controla el flujo del codigo) que se utiliza para facilitar
+la codificacion de un programa, ya que este nos permite automatizar tarea dentro de nuestro codigo que sin 
+su existencia se tendria que hacer de forma manual, tareas que llegado el momento y dependiendo la complejidad 
+del algoritmo se nos haría imposible su realización. En este mismo sentido el bucle for es una utilidad
+que nos ayuda a llevar a cabo las mejores practicas de codigo limpio.
+
+&&, ||, !:
+Estos operadores logicos son muy utilizados en cualquier lenguaje de programacion, ya que con ellos
+y siguiendo la logica de Bool podemos cambiar el flujo del codigo dependiendo del resultado arrojado.
+
+&& (conjunción o AND): Es utilizado cuando tenemos la necesitadad de evaluar una condicion que
+necesariamente deben ser ciertas las dos para poder relizar una tarea o llevar a cabo un bloque de codigo. 
+
+|| (Intersección u OR): Es utilizado cuando tenemos la necesitadad de evaluar una condicion que
+necesariamente una de las opciones debe ser cierta para poder relizar una tarea o llevar a cabo 
+un bloque de codigo.
+
+! (Negación): Es usado cuando deseamos llevar a cabo el resultado de una expresion booleana.
