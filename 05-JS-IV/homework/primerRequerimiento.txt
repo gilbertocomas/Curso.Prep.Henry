@@ -1,0 +1,23 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos:
+
+Un objeto es una colección de propiedades, y una propiedad es una asociación entre un nombre (o clave) y un valor. Mediante este paradigma lo que buscamos es emular los Objetos
+del mundo real y llevarlo a la programacion para que resolver problemas cotidiano sea mucho mas fácil.
+
+Propiedades:
+Representan los datos o variables de un objeto (clave). Por ejemplo el nombre de una persona. 
+
+Métodos:
+Los metodos son las mismas funciones de las que venimos hablando desde el dia uno, con el fin de no repetir codigo o escribir condigo que vayamos a usar de forma frecuente, 
+la unica diferencia es que estan creadas dentro de un objeto (como el valor de una propiedad).
+
+Bucle for…in:
+Este es un bucle que está diseñado para que recorrer las propiedades de un objeto (clave / valor) sea sencillo. 
+
+Notación de puntos vs notación de corchetes:
+En JavaScript existen dos formas de acceder a las propiedades de un objeto, pero con una ligera diferencia:
+
+Cuando usamos corchetes podemos acceder a propiedades que tienen un espacio o carácter no permitido en la notación de punto (por ejemplo, miMascota.numero de amigos no es válido, pero miMascota["numero de amigos"] sí lo es).
+Si queremos minificar nuestro código, la notación del punto no es válida... debemos usar la notación de corchetes.

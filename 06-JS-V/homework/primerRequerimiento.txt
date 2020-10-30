@@ -1,0 +1,12 @@
+1) En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+prototype:
+Los prototipos son un mecanismo mediante el cual los objetos en JavaScript heredan características entre sí.
+JavaScript es a menudo descrito como un lenguaje basado en prototipos - para proporcionar mecanismos de herencia, los objetos pueden tener un objeto prototipo, 
+el cual actúa como un objeto plantilla que hereda métodos y propiedades.
+
+Constructors (de Clases):
+El método constructor es un metodo especial para crear e inicializar un objeto creado a partir de una clase.
+Sólo puede haber un método especial con el nombre de "constructor" en una clase.
+Un constructor puede utilizar la palabra clave super para llamar al constructor de una clase padre.
+
